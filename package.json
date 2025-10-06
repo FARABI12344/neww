@@ -1,0 +1,14 @@
+{
+  "name": "click-simulator",
+  "version": "1.0.0",
+  "description": "A fun clicking simulator game built with React and Supabase",
+  "private": true,
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "install": "cd frontend && npm install"
+  },
+  "keywords": ["clicker", "game", "react", "supabase"],
+  "author": "",
+  "license": "MIT"
+}
